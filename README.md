@@ -26,14 +26,21 @@
 <h3 align="left">Tech Stack:</h3>
 
 <ul>
-  <li><h4 align="left">Web</h4></li>
-  <p align="left" style="margin-left: 20px;">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/></a></p>
-  <p align="left" style="margin-left: 20px;">
-  <a href="" target="_blank" rel="noreferrer" <img src="" alt="" width="40" height="40"/></a></p>
+  <li><h4 align="left">Programming Languages</h4></li>
+	  <p align="left" style="margin-left: 20px;">
+	  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/></a></p>
+	  
+	  <p align="left" style="margin-left: 20px;">  
+	  <a href="https://www.java.com/es/" target="_blank" rel="noreferrer" <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/></a></p>
+	
+	  <p align="left" style="margin-left: 20px;">  
+	  <a href="" target="_blank" rel="noreferrer" <img src="" alt="" width="40" height="40"/></a></p>
+	
+	  <p align="left" style="margin-left: 20px;">  
+	  <a href="" target="_blank" rel="noreferrer" <img src="" alt="" width="40" height="40"/></a></p>
 
-- Web: 
-- Programming languages
+
+- Web
 - Frameworks
 - Software & Tools
 - IDEs
