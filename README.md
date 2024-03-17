@@ -13,7 +13,8 @@
 <ul>
   <li>🎯 <b>I like to explore new technologies and develop software solutions.</b></li>
   <li>🌱 <b>I'm on track for learning more about Web Systems Desing, Cloud Architecture and Artificial Intelligence.</b></li>
-  <li>💬 <b>Ask me about Programming or Machine Learning.</b></li> 
+  <li>💬 <b>Ask me about Programming or Machine Learning.</b></li>
+	
   <li>📰 <b>Articles: </b><a style="margin-left: 10px;" target="_blank" href="https://ieeexplore.ieee.org/document/10402176">Link to Article</a></li> 
 </ul>
 
@@ -27,10 +28,8 @@
 <ul>
   <li><h4 align="left">Web</h4></li>
   <p align="left" style="margin-left: 20px;">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer" <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/></a></p>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/></a></p>
   <p align="left" style="margin-left: 20px;">
-  <a href="" target="_blank" rel="noreferrer" <img src="" alt="" width="40" height="40"/></a></p>
-  <a href="" target="_blank" rel="noreferrer" <img src="" alt="" width="40" height="40"/></a></p>
   <a href="" target="_blank" rel="noreferrer" <img src="" alt="" width="40" height="40"/></a></p>
 
 - Web: 
