@@ -23,7 +23,14 @@
 
 
 
-<ul style="list-style-type: none; padding: 0; margin: 0;">
+
+
+
+
+
+
+
+<ul>
   <li style="display: inline; margin-right: 10px;">
     <h4 align="left">Programming Languages</h4>
   </li>
