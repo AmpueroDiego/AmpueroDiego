@@ -22,50 +22,48 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 
+
 <ul style="list-style-type: none; padding: 0; margin: 0;">
-  <li style="display: inline-block; margin-right: 10px;">
+  <li style="display: inline; margin-right: 10px;">
     <h4 align="left">Programming Languages</h4>
   </li>
   <!--python-->
-  <li style="display: inline-block; margin-right: 10px;">
+  <li style="display: inline; margin-right: 10px;">
     <a href="https://www.python.org/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
     </a>
   </li>
   <!--java-->
-  <li style="display: inline-block; margin-right: 10px;">
+  <li style="display: inline; margin-right: 10px;">
     <a href="https://www.java.com/es/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/>
     </a>
   </li>
   <!--c#-->
-  <li style="display: inline-block; margin-right: 10px;">
+  <li style="display: inline; margin-right: 10px;">
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/384px-Logo_C_sharp.svg.png?20221121173824" alt="c#" width="40" height="40"/>
     </a>
   </li>
   <!--js-->
-  <li style="display: inline-block; margin-right: 10px;">
+  <li style="display: inline; margin-right: 10px;">
     <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="js" width="40" height="40"/>
     </a>
   </li>
   <!--kotlin-->
-  <li style="display: inline-block; margin-right: 10px;">
+  <li style="display: inline; margin-right: 10px;">
     <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/>
     </a>
   </li>
   <!--dart-->
-  <li style="display: inline-block;">
+  <li style="display: inline;">
     <a href="https://dart.dev/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
     </a>
   </li>
 </ul>
-
-
-
 
 
 
