@@ -73,7 +73,7 @@
   </a>
 	<!--Asp .Net-->
 	<a href="https://dotnet.microsoft.com/es-es/apps/aspnet" target="_blank" rel="noreferrer">
-	<img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt=".Net" width="40" height="40"/>
+	<img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt=".Net" width="60" height="60"/>
   </a>
 	<!--Django-->
 	<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
