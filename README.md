@@ -65,7 +65,7 @@
   <p>  
 	<!--flutter-->
 	<a href="https://flutter.dev/" target="_blank" rel="noreferrer"> 
-	<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+	<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg" alt="flutter" width="120" height="60"/>
   </a>
 	  <!--Spring-->
 	  <a href="https://spring.io/" target="_blank" rel="noreferrer">
