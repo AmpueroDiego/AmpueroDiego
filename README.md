@@ -33,28 +33,28 @@
     </a>
 	  <!--python-->
 	<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-	<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Java" width="40" height="40"/>
+	<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Java" width="60" height="60"/>
     </a>
     </a>
 	  <!--java-->
 	<a href="https://www.java.com/es/" target="_blank" rel="noreferrer">
-	<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/>
+	<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="60" height="60"/>
     </a>
 	  <!--c#-->
 	<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/384px-Logo_C_sharp.svg.png?20221121173824" alt="c#" width="40" height="40"/>
+	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/384px-Logo_C_sharp.svg.png?20221121173824" alt="c#" width="55" height="60"/>
     </a>
 	  <!--js-->
 	<a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
-	<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="js" width="40" height="40"/>
+	<img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="js" width="60" height="60"/>
     </a>
 	<!--kotlin-->
 	<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
-	<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/>
+	<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="60" height="60"/>
     </a>
 	  <!--dart-->
 	<a href="https://dart.dev/" target="_blank" rel="noreferrer">
-	<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
+	<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="60" height="60"/>
     </a>
   </p>
 
