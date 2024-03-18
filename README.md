@@ -22,13 +22,13 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <!-- lenguajes y herramientas-->
-<h2 align="center">Tech Stack: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 24px></h2>
 
-
+<div>
+   <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="18" height="18">  Tech Stack:</h2>
+</div>
 <!--progamming languagues-->
 
 - Programming Languages
-
   <p>
     </a>
 	  <!--python-->
