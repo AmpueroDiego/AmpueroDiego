@@ -96,6 +96,14 @@
 	<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
 	<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="60" height="60"/>
   </a>
+  	<!--CSS-->
+	<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+	<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" width="60" height="60"/>
+  </a>
+   	<!--CSS-->
+	<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+	<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" width="60" height="60"/>   
+  </a>
  </p>
 
 
@@ -107,6 +115,7 @@
 	<a target="_blank" href="https://www.linkedin.com/in/diego-ampuero-aldoradin/">
 	<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
 </a>
+</p>
 
 
 
