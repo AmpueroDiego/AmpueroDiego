@@ -83,9 +83,6 @@
 
 - Database
 <p>
-	<!--sql-->
-	<a href="https://www.w3schools.com/sql/sql_intro.asp" target="_blank" rel="noreferrer">
-	<img src="https://img.favpng.com/20/17/14/microsoft-sql-server-database-administrator-computer-icons-table-png-favpng-vWncX9MMc2n2j8rBMuaQTCVTt_t.jpg" alt="sql" width="60" height="60"/>
 	<!--mysql-->
 	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
 	<img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="120" height="60"/>
