@@ -22,7 +22,7 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <!-- lenguajes y herramientas-->
-<h3 align="left">Tech Stack:</h3>
+<h2 align="center">Tech Stack: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 24px></h2>
 
 
 <!--progamming languagues-->
