@@ -84,14 +84,19 @@
 
 - Software & Tools
   <p>
-	<!--Django-->
+	<!--git-->
 	<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-	<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Django" width="60" height="60"/>
+	<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="60" height="60"/>
   </a>
  </p>
   
-- Web css html bootstraap
-
+- Web Frontend
+  <p>
+	<!--Html-->
+	<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+	<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="60" height="60"/>
+  </a>
+ </p>
 
 
 
