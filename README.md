@@ -77,15 +77,22 @@
   </a>
 	<!--Django-->
 	<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-	<img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="Django" width="40" height="40"/>
+	<img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="Django" width="60" height="60"/>
   </a>
+  </p>
 
 
 - Software & Tools
+  <p>
+	<!--Django-->
+	<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+	<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Django" width="60" height="60"/>
+  </a>
+ </p>
   
 - Web css html bootstraap
-- IDEs
-- 
+
+
 
 
 <!-- Section connect me -->
