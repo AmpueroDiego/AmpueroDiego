@@ -89,6 +89,9 @@
 	<!--mongo-->
 	<a href="https://www.mongodb.com/es" target="_blank" rel="noreferrer">
 	<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongoDB" width="60" height="60"/>
+ 	<!--sql-->
+	<a href="https://www.mongodb.com/es" target="_blank" rel="noreferrer">
+	<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongoDB" width="60" height="60"/>
 </p>
 
 - Software & Tools
@@ -101,6 +104,12 @@
 	<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
 	<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="60" height="60"/>
   </a>
+    	<!--Jupyter-->
+	<a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+	<img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Figma" width="60" height="60"/>
+  </a>
+
+  
  </p>
   
 - Web Frontend
