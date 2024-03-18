@@ -92,6 +92,10 @@
  	<!--sql-->
 	<a href="https://www.mongodb.com/es" target="_blank" rel="noreferrer">
 	<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongoDB" width="60" height="60"/>
+	<!--Firebase-->
+	<a href="https://firebase.google.com/?hl=es-419" target="_blank" rel="noreferrer">
+	<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="60" height="60"/>   
+  </a>
 </p>
 
 - Software & Tools
@@ -121,10 +125,6 @@
   	<!--CSS-->
 	<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
 	<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" width="60" height="60"/>
-  </a>
-   	<!--CSS-->
-	<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-	<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" width="60" height="60"/>   
   </a>
  </p>
 
