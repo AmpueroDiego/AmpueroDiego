@@ -92,9 +92,6 @@
 	<!--mongo-->
 	<a href="https://www.mongodb.com/es" target="_blank" rel="noreferrer">
 	<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongoDB" width="60" height="60"/>
- 	<!--sql-->
-	<a href="https://www.mongodb.com/es" target="_blank" rel="noreferrer">
-	<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongoDB" width="60" height="60"/>
 	<!--Firebase-->
 	<a href="https://firebase.google.com/?hl=es-419" target="_blank" rel="noreferrer">
 	<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="60" height="60"/>   
