@@ -8,12 +8,12 @@
 <!-- About me section-->
 <h2><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="18"> About me</h2>
 
-<b>I'm a final year student at Villarreal University and a Technical career in software development at Cibertec seeking an internship in the field of web software developer where I can improve my foundation of technical knowledege and skills.</b>
+<b>I'm a final year student at Villarreal University and Technical career in software development at Cibertec seeking an internship in the field of web software developer where I can improve my foundation of technical knowledege and skills.</b>
 
 <ul>
   <li>🎯 <b>I like to explore new technologies and develop software solutions.</b></li>
   <li>🌱 <b>I'm on track for learning more about Web Systems Desing, Cloud Architecture and Artificial Intelligence.</b></li>
-  <li>💬 <b>Ask me about Programming or Machine Learning.</b></li>
+  <li>💬 <b>Ask me about Programming or Machine Learning, I'm always available to help and learn together.</b></li>
   <li>📚 <b>I really like science fiction movies and books.</b></li>
 	
   <li>📰 <b>Articles: </b><a style="margin-left: 10px;" target="_blank" href="https://ieeexplore.ieee.org/document/10402176">Link to Article</a></li> 
