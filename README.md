@@ -128,6 +128,10 @@
 	<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
 	<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" width="60" height="60"/>
   </a>
+  	<!--Bootstrap-->
+	<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+	<img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" width="60" height="60"/>
+  </a>
  </p>
 
 
