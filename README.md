@@ -1,15 +1,14 @@
+<!--tittle-->
 <div align= "center">
-<h2> ᕼI, I'ᗰ ᗪIEGO ᗩᗰᑭᑌEᖇO <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!</h2>
+<h2> <ᕼI, I'ᗰ ᗪIEGO ᗩᗰᑭᑌEᖇO!/></h2>
 </div>
-
-
 
 <!--youtube-->
 
 <!-- About me section-->
 <h2><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="18"> About me</h2>
 
-I'm a final year student at Villarreal University and a Technical career in software development at Cibertec seeking an internship in the field of web software developer where I can improve my foundation of technical knowledege and skills.
+<b>I'm a final year student at Villarreal University and a Technical career in software development at Cibertec seeking an internship in the field of web software developer where I can improve my foundation of technical knowledege and skills.</b>
 
 <ul>
   <li>🎯 <b>I like to explore new technologies and develop software solutions.</b></li>
