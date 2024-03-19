@@ -28,8 +28,10 @@
 </div>
 <!--progamming languagues-->
 
+<div align="center">
 - Programming Languages
-  <p>
+</div>
+  <p align="center">
     </a>
 	  <!--python-->
 	<a href="https://www.python.org/" target="_blank" rel="noreferrer">
