@@ -133,7 +133,8 @@
   </a>
  </p>
 
-
+<!-- RAINBOW LINE -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <!-- Section connect me -->
 <h3 align="center"> Connect with me 🤝</h3>
@@ -146,8 +147,7 @@
 
 
 
-<!-- RAINBOW LINE -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 <!--
 create by Diego Ampuero, Date: 2024, If I have seen more, it is by standing on the shoulders of Giants. 
 https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/tree/master/templates
