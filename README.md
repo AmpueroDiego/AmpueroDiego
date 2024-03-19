@@ -84,7 +84,7 @@
   </a>
 	<!--Django-->
 	<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-	<img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="Django" width="60" height="60"/>
+	<img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/django.svg" alt="Django" width="120" height="60"/>
   </a>
   </p> 
 
