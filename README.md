@@ -1,10 +1,10 @@
 <!--tittle-->
 <div align= "center">
 <h2> <ᕼI, I'ᗰ ᗪIEGO ᗩᗰᑭᑌEᖇO!/></h2>
+</div>
 <p>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+my+GitHub+%F0%9F%98%81" alt="Typing SVG" /></a>
 </p>
-</div>
 
 <!--youtube-->
 
