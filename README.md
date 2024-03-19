@@ -1,25 +1,27 @@
-<div align="center">
-<h2> ᕼI, I'ᗰ ᗪIEGO ᗩᗰᑭᑌEᖇO <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!
-  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<div align= "center">
+<h2> ᕼI, I'ᗰ ᗪIEGO ᗩᗰᑭᑌEᖇO <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!</h2>
 </div>
+
+
 
 <!--youtube-->
 
 <!-- About me section-->
-## About me
+<h2><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="18"> About me</h2>
 
-📚 I'm a final year student at Villarreal University and a Technical career in software development at Cibertec seeking an internship in the field of web software developer where I can improve my foundation of technical knowledege and skills.
+I'm a final year student at Villarreal University and a Technical career in software development at Cibertec seeking an internship in the field of web software developer where I can improve my foundation of technical knowledege and skills.
 
 <ul>
   <li>🎯 <b>I like to explore new technologies and develop software solutions.</b></li>
   <li>🌱 <b>I'm on track for learning more about Web Systems Desing, Cloud Architecture and Artificial Intelligence.</b></li>
   <li>💬 <b>Ask me about Programming or Machine Learning.</b></li>
+  <li>📚 <b>I really like science fiction movies and books.</b></li>
 	
   <li>📰 <b>Articles: </b><a style="margin-left: 10px;" target="_blank" href="https://ieeexplore.ieee.org/document/10402176">Link to Article</a></li> 
 </ul>
 
-<!-- RAINBOW LINE -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+
 
 <!-- lenguajes y herramientas-->
 
@@ -81,6 +83,8 @@
   </a>
   </p>
 
+
+
 - Database
 <p>
 	<!--mysql-->
@@ -98,6 +102,8 @@
   </a>
 </p>
 
+
+
 - Software & Tools
   <p>
 	<!--git-->
@@ -112,9 +118,9 @@
 	<a href="https://jupyter.org/" target="_blank" rel="noreferrer">
 	<img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Figma" width="60" height="60"/>
   </a>
-
-  
  </p>
+
+
   
 - Web Frontend
   <p>
@@ -141,6 +147,8 @@
 
 
 
+<!-- RAINBOW LINE -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <!--
 **AmpueroDiego/AmpueroDiego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
