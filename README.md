@@ -23,15 +23,15 @@
 
 <!-- lenguajes y herramientas-->
 
-<div>
+<div align="center">
    <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="18" height="18">  Tech Stack:</h2>
-</div>
+
 <!--progamming languagues-->
 
-<div align="center">
-- Programming Languages
-</div>
-  <p align="center">
+
+<h3>Programming Languages</h3>
+<br>
+  <p>
     </a>
 	  <!--python-->
 	<a href="https://www.python.org/" target="_blank" rel="noreferrer">
@@ -61,9 +61,11 @@
   </p>
 
 <!--Frameworks-->
-  
-- Frameworks
 
+
+
+<h3>Frameworks</h3>
+<br>
   <p>  
 	<!--flutter-->
 	<a href="https://flutter.dev/" target="_blank" rel="noreferrer"> 
@@ -81,11 +83,11 @@
 	<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
 	<img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="Django" width="60" height="60"/>
   </a>
-  </p>
+  </p> 
 
 
-
-- Database
+<h3>Database</h3>
+<br>
 <p>
 	<!--mysql-->
 	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
@@ -101,7 +103,8 @@
 
 
 
-- Software & Tools
+<h3>Software & Tools</h3>
+<br>
   <p>
 	<!--git-->
 	<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -119,7 +122,8 @@
 
 
   
-- Web Frontend
+<h3>Web Frontend<h3>
+<br>
   <p>
 	<!--Html-->
 	<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
@@ -134,6 +138,7 @@
 	<img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" width="60" height="60"/>
   </a>
  </p>
+ </div>
 
 <!-- RAINBOW LINE -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
