@@ -80,11 +80,11 @@
   </a>
 	<!--Asp .Net-->
 	<a href="https://dotnet.microsoft.com/es-es/apps/aspnet" target="_blank" rel="noreferrer">
-	<img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt=".Net" width="60" height="60"/>
+	<img src="https://logos-world.net/wp-content/uploads/2022/01/NET-Framework-Symbol-700x394.png" alt=".Net" width="110" height="60"/>
   </a>
 	<!--Django-->
 	<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-	<img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/django.svg" alt="Django" width="120" height="60"/>
+	<img src="https://www.freewear.org/images/articles/detail/FW0548.png" alt="Django" width="60" height="60"/>
   </a>
   </p> 
 
@@ -120,6 +120,10 @@
     	<!--Jupyter-->
 	<a href="https://jupyter.org/" target="_blank" rel="noreferrer">
 	<img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Figma" width="60" height="60"/>
+  </a>
+	<!--Trello-->
+	<a href="https://trello.com/" target="_blank" rel="noreferrer">
+	<img src="https://logos-world.net/wp-content/uploads/2021/02/Trello-Logo.png" alt="Trello" width="120" height="60"/>
   </a>
  </p>
 
