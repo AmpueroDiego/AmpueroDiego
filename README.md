@@ -18,10 +18,8 @@
   <li>🌱 <b>I'm on track for learning more about Web Systems Desing, Cloud Architecture and Artificial Intelligence.</b></li>
   <li>💬 <b>Ask me about Programming or Machine Learning, I'm always available to help and learn together.</b></li>
   <li>📰 <b>I'm collaborator in a team of AI at my university; Article: </b><a style="margin-left: 10px;" target="_blank" href="https://ieeexplore.ieee.org/document/10402176">Link to Article of Machine Learning</a></li> 
-  <li>📚 <b>Fun fact: <em>I really like science fiction movies and books.</em></b></li>  
+  <li>📚 <b>Hobbie: <em>I really like science fiction movies and books.</em></b></li>  
 </ul>
-
-
 
 
 <!-- lenguajes y herramientas-->
@@ -100,8 +98,11 @@
 	<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongoDB" width="60" height="60"/>
 	<!--Firebase-->
 	<a href="https://firebase.google.com/?hl=es-419" target="_blank" rel="noreferrer">
-	<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="60" height="60"/>   
-  </a>
+	<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="60" height="60"/>
+	<!--sql-->
+	<a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank" rel="noreferrer">
+	<img src="https://www.freeiconspng.com/uploads/sql-server-icon-png-8.png" alt="SQL Sercer" width="60" height="60"/> 
+	
 </p>
 
 
@@ -149,6 +150,8 @@
 
 <!-- RAINBOW LINE -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+- you can see more? go to my website
 
 <!-- Section connect me -->
 <h3 align="center"> Connect with me 🤝</h3>
