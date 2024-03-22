@@ -25,7 +25,7 @@
 <!-- lenguajes y herramientas-->
 
 <div align="center">
-   <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="18" height="18">  Tech Stack:</h2>
+   <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="18" height="18"> My Tech Stack:</h2>
 
 <!--progamming languagues-->
 
@@ -152,6 +152,11 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 - you can see more? go to my website
+
+<a href="https://github.com/PrudhviGNV/FacialEmotionRecognition-usingCNN">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=PrudhviGNV&repo=FacialEmotionRecognition-usingCNN" />
+</a>
+
 
 <!-- Section connect me -->
 <h3 align="center"> Connect with me 🤝</h3>
