@@ -63,8 +63,6 @@
 
 <!--Frameworks-->
 
-
-
 <h3>Frameworks</h3>
 <br>
   <p>  
@@ -104,7 +102,6 @@
 	<img src="https://www.freeiconspng.com/uploads/sql-server-icon-png-8.png" alt="SQL Sercer" width="60" height="60"/> 
 	
 </p>
-
 
 
 <h3>Software & Tools</h3>
@@ -154,7 +151,7 @@
 - you can see more? go to my website
 
 <a href="https://github.com/PrudhviGNV/FacialEmotionRecognition-usingCNN">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=PrudhviGNV&repo=FacialEmotionRecognition-usingCNN" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=AmpueroDiego&repo=web-page-under-the-SCRUM-framework-for-the-HeroTech-company" />
 </a>
 
 
