@@ -151,7 +151,7 @@
 - you can see more? go to my website
 
 <a href="https://github.com/PrudhviGNV/FacialEmotionRecognition-usingCNN">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=AmpueroDiego&repo=web-page-under-the-SCRUM-framework-for-the-HeroTech-company" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AmpueroDiego&repo=web-page-under-the-SCRUM-framework-for-the-HeroTech-company" />
 </a>
 
 
