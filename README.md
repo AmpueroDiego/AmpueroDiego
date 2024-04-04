@@ -148,16 +148,15 @@
 <!-- RAINBOW LINE -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-- you can see more? go to my website
 
-<a href="https://github.com/AmpueroDiego/web-page-under-the-srum-framework-for-HeroTech-Company">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AmpueroDiego&repo=web-page-under-the-srum-framework-for-HeroTech-Company"" />
-</a>
-
-
+## Portfolio
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AmpueroDiego&repo=web-page-under-the-srum-framework-for-HeroTech-Company)](https://github.com/AmpueroDiego/web-page-under-the-srum-framework-for-HeroTech-Company)
 
+
+<!--
+- you can see more? go to my website
+-->
 <!-- Section connect me -->
 <h3 align="center"> Connect with me 🤝</h3>
 
