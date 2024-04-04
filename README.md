@@ -150,8 +150,8 @@
 
 - you can see more? go to my website
 
-<a href="https://github.com/AmpueroDiego/web-page-under-the-SCRUM-framework-for-the-HeroTech-company">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AmpueroDiego&repo=web-page-under-the-SCRUM-framework-for-the-HeroTech-company" />
+<a href="https://github.com/AmpueroDiego/web-page-under-the-srum-framework-for-HeroTech-Company">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AmpueroDiego&repo=web-page-under-the-srum-framework-for-HeroTech-Company"" />
 </a>
 
 
