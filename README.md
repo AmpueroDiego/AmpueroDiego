@@ -11,7 +11,7 @@
 <!-- About me section-->
 <h2><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="18"> About me</h2>
 
-<b>I'm a final year student at Villarreal University and Technical career in software development at Cibertec seeking an internship in the field of web software developer where I can improve my foundation of technical knowledege and skills.</b>
+<b>I'm a final year student at <a href="https://www.unfv.edu.pe/">Villarreal University</a> and Technical career in software development at <a href="https://www.cibertec.edu.pe/">Cibertec</a> seeking an internship in the field of web software developer where I can improve my foundation of technical knowledege and skills.</b>
 
 <ul>
   <li>🎯 <b>I like to explore new technologies and develop software solutions.</b></li>
