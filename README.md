@@ -151,7 +151,7 @@
 
 ## Portfolio
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AmpueroDiego&repo=web-page-under-the-srum-framework-for-HeroTech-Company)](https://github.com/AmpueroDiego/web-page-under-the-srum-framework-for-HeroTech-Company)
 
 
 <!--
