@@ -15,7 +15,7 @@
 
 <ul>
   <li>🎯 <b>I like to explore new technologies and develop software solutions.</b></li>
-  <li>🌱 <b>I'm on track for learning more about Web Systems Desing, Cloud Architecture and Artificial Intelligence.</b></li>
+  <li>🌱 <b>I'm learning to code the next big thing! (Web Systems Desing, Cloud Architecture and Artificial Intelligence).</b></li>
   <li>💬 <b>Ask me about Programming or Machine Learning, I'm always available to help and learn together.</b></li>
   <li>📰 <b>I'm collaborator in a team of AI at my university; Article: </b><a style="margin-left: 10px;" target="_blank" href="https://ieeexplore.ieee.org/document/10402176">Link to Article of Machine Learning</a></li> 
   <li>📚 <b>Hobbie: <em>I really like science fiction movies and books.</em></b></li>  
